@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\leona\OneDrive\Área de Trabalho\Projeto_Github\JAVA\Tramento_Exececoes\.metadata\.plugins\org.eclipse.jdt.core
+3031878492.index
+1865797976.index
+4230349600.index
